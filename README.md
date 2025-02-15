@@ -2,13 +2,13 @@
 ## 📖Project Overview
 ### Objective
 The Organizational Development Model (referred to as OD Model or ODM) is an index system (called OD Index or ODI), serving as a diagnosis and guidance definition tool for the national team and local executive boards to understand the current state and where to focus on to reach their ideal state. ODI is combined by 2 main indicators to define the overall status of an entity, which are:
-Product Development Index (PDI) is focused on the portfolios we run
-Health Development Index (HDI) is designed to analyze if we are managing our resources sustainably
+* Product Development Index (PDI) is focused on the portfolios we run
+* Health Development Index (HDI) is designed to analyze if we are managing our resources sustainably
+
 This project aims to develop a comprehensive tool that helps LCs make data-driven decisions and strategically plan their development.
 
 ### Role
 As the Data Manager, I was responsible for data collecting, data cleaning, performing calculations, visualization and building an interactive system readily available for decision-making. The project involved collaborating with various stakeholders, including the national board of directors and the local executive board.
-
 
 ## 🔮Approach and Process
 ### Data Collection
