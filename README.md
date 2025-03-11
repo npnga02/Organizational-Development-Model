@@ -28,6 +28,8 @@ Once the data is collected, the next step is to prepare it for analysis. Key tas
 * Performing calculations based on intermediate metrics collected.
 
  For example: %Sign-ups to Youth-engaged = #Youth-engaged / #Sign-ups, where #Youth-engaged and #Sign-ups are primarily collected.
+![Screen Recording 2025-03-11 095010](https://github.com/user-attachments/assets/e2e87bf7-ea16-490e-a86d-eb884b0e4845)
+The database after processing, with monthly, quarterly, phasely and termly data included.
 
 
 ### Data Input
