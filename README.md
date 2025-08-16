@@ -15,7 +15,7 @@ As the Data Manager, I was responsible for data collecting, data cleaning, perfo
 ## 🔮Approach and Process
 ### Data Collection
 There are two methods for data collection:
-* With exchange functions: Data is automatically extracted from EXPA, using the code in 'iCX.gs' and 'oGX.gs' file
+* With exchange functions: Data is automatically extracted from EXPA, using the code in `iCX.gs` and `oGX.gs` file
 * With non-exchange functions: Data is collected manually from the commission workspaces.
 
 ### Data Preparation
