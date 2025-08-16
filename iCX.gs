@@ -411,4 +411,3 @@ function exactYear() {
   convertDatesToShortFormat2(sheetname);
   //sheet.getDataRange().getValues();
 }
-
